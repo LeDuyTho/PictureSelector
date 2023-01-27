@@ -385,8 +385,8 @@ public final class PictureSelectionConfig implements Parcelable {
         minVideoSelectNum = 0;
         minAudioSelectNum = 0;
         videoQuality = VideoQuality.VIDEO_QUALITY_HIGH;
-        language = LanguageConfig.UNKNOWN_LANGUAGE;
-        defaultLanguage = LanguageConfig.SYSTEM_LANGUAGE;
+        language = LanguageConfig.VIETNAM;
+        defaultLanguage = LanguageConfig.VIETNAM;
         filterVideoMaxSecond = 0;
         filterVideoMinSecond = 0;
         selectMaxDurationSecond = 0;
